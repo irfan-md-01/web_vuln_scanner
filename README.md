@@ -16,10 +16,10 @@ This Django-based **Web Application Vulnerability Scanner** detects common secur
 - Click Download Report (PDF) to save the scan results.
 
 🔧 Technologies Used
-◘ Django (Backend Framework)
-◘ Bootstrap (Frontend)
-◘ ReportLab (PDF Generation)
-◘ Requests (HTTP Requests for Scanning)
+ Django (Backend Framework)
+ Bootstrap (Frontend)
+ ReportLab (PDF Generation)
+ Requests (HTTP Requests for Scanning)
 
 
 ![Screenshot_8-2-2025_93544_127 0 0 1](https://github.com/user-attachments/assets/821cd1ad-fc93-4860-ad9f-5c30ad307773)
